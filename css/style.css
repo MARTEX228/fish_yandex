@@ -1,0 +1,113 @@
+.content_wraper{
+    padding: 0 700px;
+}
+body{
+    background-color: white;
+    padding: 10px 100px;
+}
+.nav {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto auto;
+}
+.nav .autor img {
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+}
+.nav .autor a{
+    text-decoration: none;
+    color: red;
+}
+.nav .autor {
+    display: grid;
+    grid-template-columns: auto auto 1fr auto;
+    margin-left: 200px;
+}
+ .nav .login a{
+    color: #ff0000;
+     display: inline-block;
+     margin-left: 20px;
+     text-decoration: none;
+}
+ .nav .searh{
+     margin-left: 200px;
+     margin-right: 200px;
+ }
+ .nav .autor p{
+     margin-left: 30px;
+ }
+ .pod{
+     margin-top: 0px;
+ }
+ .pod2{
+     margin-bottom: 0px;
+ }
+ .main .left_menu a{
+     text-decoration: none;
+     color: black;
+     display: flex;
+     align-items: center;
+     grid-gap: 5px;
+     padding-bottom: 20px;
+ }
+ h1{
+font-size: 34px;
+     font-weight: 700;
+     font-family: -apple-system,system-ui,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+
+ }
+ .main{
+     display: grid;
+     grid-template-columns: auto 600px auto;
+     padding-top: 100px;
+     grid-gap: 80px;
+ }
+.right_menu h2{
+    font-family: -apple-system,system-ui,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 70vh;
+}
+.right_menu a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px 0;
+}
+.right_menu img{
+    width: 72px;
+    border-radius: 10px;
+}
+.content b{
+    font-size: 14px;
+    color: rgba(0,0,0,.8);
+    display: block;
+    opacity: 0.5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lifehack{
+    padding: 10px 0 10px 20px;
+    margin-top: 20px;
+    border-left: 3px solid black;
+}
+.content .lifehack p{
+    margin: 0;
+    font-style: italic;
+    /*margin: 20px 0;*/
+}
+.content p{
+    margin-top: 30px;
+    font-size: 18px;
+}
+.content img{
+    width: 600px;
+    padding-top: 30px;
+}
+.content .img_one{
+    padding-top: 0;
+    width: 483px;
+}
