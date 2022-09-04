@@ -61,7 +61,7 @@
             <a href=""><img src="res/town.png" alt=""><p>Как начать играть в Town Star и зарабатывать</p></a>
             <a href=""><img src="https://avatars.dzeninfra.ru/get-zen_doc/5163854/pub_60f6032ac6cba86dfd85c612_60f605dd8346e576a3420271/smart_crop" alt=""><p>«Бенфика» против «Спартака». Руй Витория против своих.</p></a>
             <a href=""><img src="https://avatars.dzeninfra.ru/get-zen_doc/5226854/pub_60e79731015e0849c068c909_60e797dd1d503a7bca95953b/smart_crop" alt=""><p>Как начать играть в Town Star и зарабатывать</p></a>
-
+<p>govno</p>
         </div>
     </div>
 </div>
